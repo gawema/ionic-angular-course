@@ -1,5 +1,5 @@
 {
-  "appId": "com.gawema.ionic.starter.one",
+  "appId": "io.ionic.starter",
   "appName": "ionic-angular-course",
   "bundledWebRuntime": false,
   "npmClient": "npm",
